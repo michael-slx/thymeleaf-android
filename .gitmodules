@@ -1,3 +1,6 @@
 [submodule "ognl"]
 	path = ognl
 	url = https://github.com/xcuipir/ognl.git
+[submodule "thymeleaf"]
+	path = thymeleaf
+	url = https://github.com/xcuipir/thymeleaf.git
