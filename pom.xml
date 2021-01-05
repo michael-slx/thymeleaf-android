@@ -14,7 +14,7 @@
 
   <build>
 
-    <defaultGoal>thymeleaf:install</defaultGoal>
+    <defaultGoal>thymeleaf:package</defaultGoal>
 
   </build>
 
